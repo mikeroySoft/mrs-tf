@@ -1,2 +1,2 @@
 # mrs-tf
- terraform deployment for mikeroysoft.org
+ terraform deployment for mikeroysoft
